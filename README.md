@@ -8,3 +8,6 @@ style through CSS. This will be using:
 
 - Git
 - HTML
+
+Update 1: Also was able to learn very basic CSS. Added very bad looking color, but 
+it does have color now. Also fixed super large pictures which looks nice.
