@@ -29,3 +29,9 @@ body {
     width: 750px;
     background-color: #6EFF9E;
 }
+
+.box-design {
+    border: 3px solid #ad0e00;
+    padding: 5px;
+    margin: 10px;
+}
