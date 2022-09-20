@@ -1,5 +1,5 @@
 body {
-    background-color: #00AD3A;
+    background-color: #b7b7b7;
     color: #ad0e00;
     font-family: "Courier New";
     font-size: 18px
@@ -12,7 +12,7 @@ body {
 
 .recipe-lists {
     width: max-content;
-    background-color: #6EFF9E;
+    background-color: #e5e5e5;
 }
 
 .picture-size {
@@ -26,12 +26,28 @@ body {
 }
 
 .list-div {
-    width: 750px;
-    background-color: #6EFF9E;
+    width: 45%;
+    background-color: #e5e5e5;
 }
 
 .box-design {
     border: 3px solid #ad0e00;
     padding: 5px;
     margin: 10px;
+}
+
+.box-layout {
+    display: inline-block;
+}
+
+.box-title {
+    padding: 0px 10px;
+}
+
+.nav-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 1rem;
 }
